@@ -7,7 +7,8 @@ namespace HelloWorld
         static void Main(string[] args)
         {
             Console.WriteLine("Olá mundo!");
-            Console.WriteLine("Este é meu Guia pessoal de Git/GitHub");
+            Console.WriteLine("Eu sou o Ezequiel");
+            Console.WriteLine("E este é meu Guia pessoal de Git/GitHub");
         }
     }
 }
